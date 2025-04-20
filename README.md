@@ -26,4 +26,4 @@ I'm a Computer Engineering graduate with a passion for **frontend** and **mobile
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/serapgulgen)
 - [GitHub](https://github.com/SerapG)
-- Email: serapgulgen05@gmail.com
+- serapgulgen05@gmail.com
