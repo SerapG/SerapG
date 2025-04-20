@@ -1,46 +1,29 @@
-## 👋 Hey there! I'm Serap Gülgen
+# Hi, I'm Serap Gülgen
 
-🎓 Computer Engineering graduate  
-💻 Junior Frontend & Mobile App Developer  
-🚀 Passionate about building user-friendly apps with React Native
+I'm a Computer Engineering graduate with a passion for **frontend** and **mobile application development**. I focus on building clean, functional, and user-friendly applications using **React Native**.
 
----
+## 🔧 Skills
+- React Native, JavaScript, TypeScript
+- HTML, CSS, Git, GitHub
+- Basic ASP.NET Core MVC knowledge
 
-### 💼 What I’m Working On:
-- 🎯 QuizApp – A category-based quiz game built with React Native and TypeScript  
-- 💰 Expense Tracker – A personal finance tracking app developed with React Native
+## 🧪 Projects
+- **QuizApp** – A category-based quiz application developed with React Native and TypeScript.
+- **Expense Tracker** – A personal finance app built with React Native, focused on clean UI and usability.
+- **WebProgProje** – A recipe-sharing web app developed using ASP.NET Core MVC.
 
----
+## 📚 Currently Learning
+- Advanced React Native concepts
+- TypeScript best practices
+- UI/UX design for mobile apps
 
-### 🛠️ Technologies & Tools
-- Languages: JavaScript, TypeScript, HTML, CSS
-- Frameworks: React Native, React, ASP.NET Core MVC
-- Tools: Git & GitHub, VS Code, Figma, Postman
+## 🎓 Education
+**Sakarya University** – Computer Engineering  
+- Final project: Mobile app for diabetic children and parents  
+- Co-founded Google Women Techmakers at the university  
+- Member of Computer Engineering Club
 
----
-
-### 📚 Currently Learning
-- State management in React Native  
-- Navigation and animation techniques in mobile UI  
-- Advanced TypeScript and clean code practices
-
----
-
-### 🎓 Education
-- **Sakarya University** – Computer Engineering  
-  - Final year project: Mobile app for diabetic children and their parents  
-  - Co-founder of Google Women Techmakers at the university  
-  - Active member of Computer Engineering Club
-
----
-
-### 🌐 Connect with Me
+## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/serapgulgen)
 - [GitHub](https://github.com/SerapG)
-- 📩 serapgulgen05@gmail.com
-
----
-
-### 💡 Fun Facts
-- I'm passionate about **history** and enjoy researching historical topics in my free time  
-- I love exploring the underwater world through **scuba diving**
+- Email: serapgulgen05@gmail.com
