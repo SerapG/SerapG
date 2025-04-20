@@ -1,6 +1,6 @@
 # Hi, I'm Serap Gülgen
 
-I'm a Computer Engineering graduate with a passion for **frontend** and **mobile application development**. I focus on building clean, functional, and user-friendly applications using **React Native**.
+I'm a junior software developer passionate about frontend and mobile development, currently building real-world apps using **React Native** and **TypeScript**.
 
 ## 🔧 Skills
 - React Native, JavaScript, TypeScript
