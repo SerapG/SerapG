@@ -1,4 +1,4 @@
-# Hi, I'm Serap Gülgen
+# 👋 Hi, I'm Serap Gülgen
 
 I'm a junior software developer passionate about frontend and mobile development, currently building real-world apps using **React Native** and **TypeScript**.
 
@@ -15,7 +15,7 @@ I'm a junior software developer passionate about frontend and mobile development
 
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/serapgulgen)
+- [LinkedIn](https://www.linkedin.com/in/serap-gulgen/)
 - [GitHub](https://github.com/SerapG)
 - ✉️ Email: `serapgulgen05 [at] gmail [dot] com`
 
