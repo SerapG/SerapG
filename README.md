@@ -3,8 +3,10 @@
 I'm a junior software developer passionate about frontend and mobile development, currently building real-world apps using **React Native** and **TypeScript**.
 
 ## 🔧 Skills
-- React Native, JavaScript, TypeScript
-- HTML, CSS, Git, GitHub
+- **Mobile Development:** React Native, Expo, React Navigation (Stack & Tab), Zustand, Context API, AsyncStorage
+- **Backend & Services:** Firebase Authentication, Firestore, TheMovieDB API, Axios
+- **Frontend Basics:** JavaScript, TypeScript, React, HTML, CSS
+- **Development Tools:** Git, GitHub, VS Code, ESLint, Prettier
 
 ## 🧪 Projects
 - **MovieLibraryApp** – A movie browsing app built with React Native, using Firebase Authentication, Firestore, and TMDB API. Users can sign up, log in, view movie details, search and filter movies, and manage their favorites. Features include theme switching (light/dark), persistent login (auto-login), and animated UI components.
